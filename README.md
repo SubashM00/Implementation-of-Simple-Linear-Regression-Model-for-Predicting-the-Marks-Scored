@@ -72,8 +72,8 @@ Compare Dataset
 ![image](https://github.com/user-attachments/assets/f45375ff-6260-45ca-ad45-868e39f1836b)
 Predicted Values
 ![image](https://github.com/user-attachments/assets/5720bbb1-a6ab-4d89-86d9-ca0b8ca2705e)
-Training set
 
+Training set
 ![image](https://github.com/user-attachments/assets/33b070ee-1ca0-4b55-8c79-0382740fe9f5)
 Testing set
 ![image](https://github.com/user-attachments/assets/f520a8c0-5fd8-4e14-9cd9-2d1f9fd61559)
